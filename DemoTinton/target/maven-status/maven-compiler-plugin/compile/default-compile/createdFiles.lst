@@ -1,0 +1,5 @@
+model\ToDo.class
+repository\ToDoRepository.class
+com\example\demo\DemotintonApplication.class
+service\ToDoService.class
+controller\ToDoController.class
